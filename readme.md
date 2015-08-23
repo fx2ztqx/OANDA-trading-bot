@@ -1,4 +1,4 @@
-Python TRADING BOT base on OANDA RESTful API 
+<h1>Python TRADING BOT base on OANDA RESTful API</h1>
 
 <b>Tasks</b>
 <ol>
