@@ -5,6 +5,7 @@
 <br><br>
 <b>Example</b>
 python trading_bot.py H1 80 200
+<br><br>
 <b>Tasks</b>
 <ol>
 <li>JSON parsing</li>
