@@ -3,7 +3,8 @@
 <b>Settings</b>
 <br>python trading_bot.py [granularity] [sma period] [ema period]
 <br><br>
-<b>Example</b>
+<h5>Example</h5>
+<br>
 python trading_bot.py H1 80 200
 <br><br>
 <b>Tasks</b>
