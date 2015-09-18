@@ -4,10 +4,8 @@
 python trading_bot.py [granularity] [sma period] [ema period]
 <h4>Example</h4>
 python trading_bot.py H1 80 200
-<h4>Tasks</h4>
+<h4>Current tasks</h4>
 <ol>
-<li>JSON parsing</li>
-<li>SMA and EMA calculation</li>
-<li>Analysing SMA and EMA datad and making decision</li>
+<li>Analysing SMA and EMA data and making decision</li>
 <li>Pushing ORDERS</li>	
 </ol>
